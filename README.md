@@ -1,3 +1,3 @@
 # Semiconductor Market map
-## To access the Semiconductor market map, kindly click on the link below and then click on raw file: - 
-<a href="https://github.com/agarwalmihir/Semiconductor-Market-map/blob/main/India_Semiconductor_Startup_Database.xlsx"
+### To access the Semiconductor market map, kindly click on the link below and then click on 'View raw': - 
+https://github.com/agarwalmihir/Semiconductor-Market-map/blob/main/India_Semiconductor_Startup_Database.xlsx
